@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @l1uxq
+- 👀 I’m learn pentest and coding
